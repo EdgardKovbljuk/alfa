@@ -1,0 +1,310 @@
+Skóre rozvrhu: 75
+Den 1:
+  Hodina 1: PSS (teorie), Učitel: Pan Masopust, Učebna: U�ebna 102
+  Hodina 2: PV (cvičení), Učitel: Pan �editel Mand�k, Učebna: Laborato� 201
+  Hodina 3: PV (cvičení), Učitel: Pan �editel Mand�k, Učebna: Laborato� 201
+  Hodina 4: TV (cvičení), Učitel: Pan� Lopocha, Učebna: U�ebna 102
+  Hodina 5: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 6: DS (teorie), Učitel: Pan Vobeck�, Učebna: Po��ta�ov� u�ebna
+  Hodina 7: AM (teorie), Učitel: Pan Kalmuzer, Učebna: Po��ta�ov� u�ebna
+  Hodina 8: C (teorie), Učitel: Pan� Studenkov�, Učebna: U�ebna 101
+  Hodina 9: CIT (cvičení), Učitel: Pan Vana, Učebna: Laborato� 201
+  Hodina 10: AM (teorie), Učitel: Pan Kalmuzer, Učebna: Po��ta�ov� u�ebna
+
+Den 2:
+  Hodina 1: WA (cvičení), Učitel: Pan Adamek, Učebna: U�ebna 101
+  Hodina 2: WA (cvičení), Učitel: Pan Adamek, Učebna: U�ebna 101
+  Hodina 3: PSS (cvičení), Učitel: Pan Masopust, Učebna: U�ebna 101
+  Hodina 4: PV (teorie), Učitel: Pan� Raichlova, Učebna: U�ebna 202
+  Hodina 5: DS (cvičení), Učitel: Pan� Vobeck�, Učebna: U�ebna 202
+  Hodina 6: DS (cvičení), Učitel: Pan� Vobeck�, Učebna: U�ebna 202
+  Hodina 7: C (teorie), Učitel: Pan� Studenkov�, Učebna: U�ebna 101
+  Hodina 8: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 9: CIT (cvičení), Učitel: Pan Vana, Učebna: Laborato� 201
+  Hodina 10: WA (teorie), Učitel: Pan Adamek, Učebna: U�ebna 102
+
+Den 3:
+  Hodina 1: TV (cvičení), Učitel: Pan� Lopocha, Učebna: U�ebna 102
+  Hodina 2: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 3: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 4: PIS (teorie), Učitel: Pan� Brcakova, Učebna: U�ebna 202
+  Hodina 5: TP (teorie), Učitel: Pan Masopust, Učebna: Po��ta�ov� u�ebna
+  Hodina 6: C (teorie), Učitel: Pan� Studenkov�, Učebna: U�ebna 101
+  Hodina 7: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 8: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 9: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 10: Volno (cvičení), Učitel: None, Učebna: None
+
+Den 4:
+  Hodina 1: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 2: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 3: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 4: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 5: PSS (cvičení), Učitel: Pan Masopust, Učebna: U�ebna 101
+  Hodina 6: PIS (cvičení), Učitel: Pan Benda, Učebna: Laborato� 201
+  Hodina 7: PIS (cvičení), Učitel: Pan Benda, Učebna: Laborato� 201
+  Hodina 8: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 9: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 10: Volno (cvičení), Učitel: None, Učebna: None
+
+Den 5:
+  Hodina 1: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 2: PIS (teorie), Učitel: Pan� Brcakova, Učebna: U�ebna 202
+  Hodina 3: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 4: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 5: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 6: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 7: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 8: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 9: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 10: Volno (cvičení), Učitel: None, Učebna: None
+
+-----------------------------------
+Skóre rozvrhu: 75
+Den 1:
+  Hodina 1: AM (teorie), Učitel: Pan Kalmuzer, Učebna: Po��ta�ov� u�ebna
+  Hodina 2: TP (teorie), Učitel: Pan Masopust, Učebna: Po��ta�ov� u�ebna
+  Hodina 3: PIS (teorie), Učitel: Pan� Brcakova, Učebna: U�ebna 202
+  Hodina 4: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 5: PV (teorie), Učitel: Pan� Raichlova, Učebna: U�ebna 202
+  Hodina 6: PSS (cvičení), Učitel: Pan Masopust, Učebna: U�ebna 101
+  Hodina 7: PSS (cvičení), Učitel: Pan Masopust, Učebna: U�ebna 101
+  Hodina 8: TV (cvičení), Učitel: Pan� Lopocha, Učebna: U�ebna 102
+  Hodina 9: WA (cvičení), Učitel: Pan Adamek, Učebna: U�ebna 101
+  Hodina 10: WA (cvičení), Učitel: Pan Adamek, Učebna: U�ebna 101
+
+Den 2:
+  Hodina 1: C (teorie), Učitel: Pan� Studenkov�, Učebna: U�ebna 101
+  Hodina 2: AM (teorie), Učitel: Pan Kalmuzer, Učebna: Po��ta�ov� u�ebna
+  Hodina 3: C (teorie), Učitel: Pan� Studenkov�, Učebna: U�ebna 101
+  Hodina 4: WA (teorie), Učitel: Pan Adamek, Učebna: U�ebna 102
+  Hodina 5: PSS (teorie), Učitel: Pan Masopust, Učebna: U�ebna 102
+  Hodina 6: PIS (teorie), Učitel: Pan� Brcakova, Učebna: U�ebna 202
+  Hodina 7: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 8: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 9: DS (cvičení), Učitel: Pan� Vobeck�, Učebna: U�ebna 202
+  Hodina 10: DS (cvičení), Učitel: Pan� Vobeck�, Učebna: U�ebna 202
+
+Den 3:
+  Hodina 1: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 2: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 3: PIS (cvičení), Učitel: Pan Benda, Učebna: Laborato� 201
+  Hodina 4: PIS (cvičení), Učitel: Pan Benda, Učebna: Laborato� 201
+  Hodina 5: PV (cvičení), Učitel: Pan �editel Mand�k, Učebna: Laborato� 201
+  Hodina 6: PV (cvičení), Učitel: Pan �editel Mand�k, Učebna: Laborato� 201
+  Hodina 7: DS (teorie), Učitel: Pan Vobeck�, Učebna: Po��ta�ov� u�ebna
+  Hodina 8: C (teorie), Učitel: Pan� Studenkov�, Učebna: U�ebna 101
+  Hodina 9: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 10: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+
+Den 4:
+  Hodina 1: CIT (cvičení), Učitel: Pan Vana, Učebna: Laborato� 201
+  Hodina 2: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 3: CIT (cvičení), Učitel: Pan Vana, Učebna: Laborato� 201
+  Hodina 4: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 5: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 6: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 7: TV (cvičení), Učitel: Pan� Lopocha, Učebna: U�ebna 102
+  Hodina 8: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 9: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 10: Volno (cvičení), Učitel: None, Učebna: None
+
+Den 5:
+  Hodina 1: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 2: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 3: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 4: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 5: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 6: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 7: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 8: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 9: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 10: Volno (cvičení), Učitel: None, Učebna: None
+
+-----------------------------------
+Skóre rozvrhu: 75
+Den 1:
+  Hodina 1: AM (teorie), Učitel: Pan Kalmuzer, Učebna: Po��ta�ov� u�ebna
+  Hodina 2: PIS (cvičení), Učitel: Pan Benda, Učebna: Laborato� 201
+  Hodina 3: PIS (cvičení), Učitel: Pan Benda, Učebna: Laborato� 201
+  Hodina 4: PSS (cvičení), Učitel: Pan Masopust, Učebna: U�ebna 101
+  Hodina 5: WA (teorie), Učitel: Pan Adamek, Učebna: U�ebna 102
+  Hodina 6: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 7: DS (cvičení), Učitel: Pan� Vobeck�, Učebna: U�ebna 202
+  Hodina 8: DS (cvičení), Učitel: Pan� Vobeck�, Učebna: U�ebna 202
+  Hodina 9: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 10: Volno (cvičení), Učitel: None, Učebna: None
+
+Den 2:
+  Hodina 1: PIS (teorie), Učitel: Pan� Brcakova, Učebna: U�ebna 202
+  Hodina 2: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 3: PV (cvičení), Učitel: Pan �editel Mand�k, Učebna: Laborato� 201
+  Hodina 4: C (teorie), Učitel: Pan� Studenkov�, Učebna: U�ebna 101
+  Hodina 5: C (teorie), Učitel: Pan� Studenkov�, Učebna: U�ebna 101
+  Hodina 6: PV (teorie), Učitel: Pan� Raichlova, Učebna: U�ebna 202
+  Hodina 7: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 8: AM (teorie), Učitel: Pan Kalmuzer, Učebna: Po��ta�ov� u�ebna
+  Hodina 9: TV (cvičení), Učitel: Pan� Lopocha, Učebna: U�ebna 102
+  Hodina 10: PV (cvičení), Učitel: Pan �editel Mand�k, Učebna: Laborato� 201
+
+Den 3:
+  Hodina 1: WA (cvičení), Učitel: Pan Adamek, Učebna: U�ebna 101
+  Hodina 2: WA (cvičení), Učitel: Pan Adamek, Učebna: U�ebna 101
+  Hodina 3: PSS (cvičení), Učitel: Pan Masopust, Učebna: U�ebna 101
+  Hodina 4: C (teorie), Učitel: Pan� Studenkov�, Učebna: U�ebna 101
+  Hodina 5: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 6: CIT (cvičení), Učitel: Pan Vana, Učebna: Laborato� 201
+  Hodina 7: CIT (cvičení), Učitel: Pan Vana, Učebna: Laborato� 201
+  Hodina 8: TP (teorie), Učitel: Pan Masopust, Učebna: Po��ta�ov� u�ebna
+  Hodina 9: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 10: DS (teorie), Učitel: Pan Vobeck�, Učebna: Po��ta�ov� u�ebna
+
+Den 4:
+  Hodina 1: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 2: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 3: PIS (teorie), Učitel: Pan� Brcakova, Učebna: U�ebna 202
+  Hodina 4: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 5: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 6: PSS (teorie), Učitel: Pan Masopust, Učebna: U�ebna 102
+  Hodina 7: TV (cvičení), Učitel: Pan� Lopocha, Učebna: U�ebna 102
+  Hodina 8: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 9: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 10: Volno (cvičení), Učitel: None, Učebna: None
+
+Den 5:
+  Hodina 1: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 2: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 3: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 4: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 5: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 6: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 7: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 8: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 9: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 10: Volno (cvičení), Učitel: None, Učebna: None
+
+-----------------------------------
+Skóre rozvrhu: 70
+Den 1:
+  Hodina 1: PIS (teorie), Učitel: Pan� Brcakova, Učebna: U�ebna 202
+  Hodina 2: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 3: TV (cvičení), Učitel: Pan� Lopocha, Učebna: U�ebna 102
+  Hodina 4: WA (teorie), Učitel: Pan Adamek, Učebna: U�ebna 102
+  Hodina 5: TV (cvičení), Učitel: Pan� Lopocha, Učebna: U�ebna 102
+  Hodina 6: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 7: PV (cvičení), Učitel: Pan �editel Mand�k, Učebna: Laborato� 201
+  Hodina 8: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 9: PV (teorie), Učitel: Pan� Raichlova, Učebna: U�ebna 202
+  Hodina 10: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+
+Den 2:
+  Hodina 1: CIT (cvičení), Učitel: Pan Vana, Učebna: Laborato� 201
+  Hodina 2: CIT (cvičení), Učitel: Pan Vana, Učebna: Laborato� 201
+  Hodina 3: AM (teorie), Učitel: Pan Kalmuzer, Učebna: Po��ta�ov� u�ebna
+  Hodina 4: PSS (cvičení), Učitel: Pan Masopust, Učebna: U�ebna 101
+  Hodina 5: PSS (cvičení), Učitel: Pan Masopust, Učebna: U�ebna 101
+  Hodina 6: PSS (teorie), Učitel: Pan Masopust, Učebna: U�ebna 102
+  Hodina 7: PIS (teorie), Učitel: Pan� Brcakova, Učebna: U�ebna 202
+  Hodina 8: C (teorie), Učitel: Pan� Studenkov�, Učebna: U�ebna 101
+  Hodina 9: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 10: TP (teorie), Učitel: Pan Masopust, Učebna: Po��ta�ov� u�ebna
+
+Den 3:
+  Hodina 1: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 2: C (teorie), Učitel: Pan� Studenkov�, Učebna: U�ebna 101
+  Hodina 3: DS (cvičení), Učitel: Pan� Vobeck�, Učebna: U�ebna 202
+  Hodina 4: DS (cvičení), Učitel: Pan� Vobeck�, Učebna: U�ebna 202
+  Hodina 5: C (teorie), Učitel: Pan� Studenkov�, Učebna: U�ebna 101
+  Hodina 6: AM (teorie), Učitel: Pan Kalmuzer, Učebna: Po��ta�ov� u�ebna
+  Hodina 7: PV (cvičení), Učitel: Pan �editel Mand�k, Učebna: Laborato� 201
+  Hodina 8: WA (cvičení), Učitel: Pan Adamek, Učebna: U�ebna 101
+  Hodina 9: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 10: Volno (cvičení), Učitel: None, Učebna: None
+
+Den 4:
+  Hodina 1: PIS (cvičení), Učitel: Pan Benda, Učebna: Laborato� 201
+  Hodina 2: PIS (cvičení), Učitel: Pan Benda, Učebna: Laborato� 201
+  Hodina 3: WA (cvičení), Učitel: Pan Adamek, Učebna: U�ebna 101
+  Hodina 4: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 5: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 6: DS (teorie), Učitel: Pan Vobeck�, Učebna: Po��ta�ov� u�ebna
+  Hodina 7: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 8: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 9: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 10: Volno (cvičení), Učitel: None, Učebna: None
+
+Den 5:
+  Hodina 1: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 2: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 3: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 4: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 5: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 6: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 7: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 8: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 9: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 10: Volno (cvičení), Učitel: None, Učebna: None
+
+-----------------------------------
+Skóre rozvrhu: 70
+Den 1:
+  Hodina 1: CIT (cvičení), Učitel: Pan Vana, Učebna: Laborato� 201
+  Hodina 2: CIT (cvičení), Učitel: Pan Vana, Učebna: Laborato� 201
+  Hodina 3: DS (teorie), Učitel: Pan Vobeck�, Učebna: Po��ta�ov� u�ebna
+  Hodina 4: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 5: AM (teorie), Učitel: Pan Kalmuzer, Učebna: Po��ta�ov� u�ebna
+  Hodina 6: PV (teorie), Učitel: Pan� Raichlova, Učebna: U�ebna 202
+  Hodina 7: DS (cvičení), Učitel: Pan� Vobeck�, Učebna: U�ebna 202
+  Hodina 8: DS (cvičení), Učitel: Pan� Vobeck�, Učebna: U�ebna 202
+  Hodina 9: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 10: TV (cvičení), Učitel: Pan� Lopocha, Učebna: U�ebna 102
+
+Den 2:
+  Hodina 1: PV (cvičení), Učitel: Pan �editel Mand�k, Učebna: Laborato� 201
+  Hodina 2: C (teorie), Učitel: Pan� Studenkov�, Učebna: U�ebna 101
+  Hodina 3: PSS (teorie), Učitel: Pan Masopust, Učebna: U�ebna 102
+  Hodina 4: TP (teorie), Učitel: Pan Masopust, Učebna: Po��ta�ov� u�ebna
+  Hodina 5: AM (teorie), Učitel: Pan Kalmuzer, Učebna: Po��ta�ov� u�ebna
+  Hodina 6: PIS (teorie), Učitel: Pan� Brcakova, Učebna: U�ebna 202
+  Hodina 7: WA (teorie), Učitel: Pan Adamek, Učebna: U�ebna 102
+  Hodina 8: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 9: WA (cvičení), Učitel: Pan Adamek, Učebna: U�ebna 101
+  Hodina 10: C (teorie), Učitel: Pan� Studenkov�, Učebna: U�ebna 101
+
+Den 3:
+  Hodina 1: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 2: PIS (teorie), Učitel: Pan� Brcakova, Učebna: U�ebna 202
+  Hodina 3: TV (cvičení), Učitel: Pan� Lopocha, Učebna: U�ebna 102
+  Hodina 4: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 5: WA (cvičení), Učitel: Pan Adamek, Učebna: U�ebna 101
+  Hodina 6: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 7: A (teorie), Učitel: Pan Juchelka, Učebna: U�ebna 101
+  Hodina 8: PSS (cvičení), Učitel: Pan Masopust, Učebna: U�ebna 101
+  Hodina 9: PSS (cvičení), Učitel: Pan Masopust, Učebna: U�ebna 101
+  Hodina 10: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+
+Den 4:
+  Hodina 1: PV (cvičení), Učitel: Pan �editel Mand�k, Učebna: Laborato� 201
+  Hodina 2: PIS (cvičení), Učitel: Pan Benda, Učebna: Laborato� 201
+  Hodina 3: PIS (cvičení), Učitel: Pan Benda, Učebna: Laborato� 201
+  Hodina 4: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 5: M (teorie), Učitel: Pan� Hrabalov�, Učebna: U�ebna 102
+  Hodina 6: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 7: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 8: C (teorie), Učitel: Pan� Studenkov�, Učebna: U�ebna 101
+  Hodina 9: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 10: Volno (cvičení), Učitel: None, Učebna: None
+
+Den 5:
+  Hodina 1: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 2: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 3: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 4: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 5: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 6: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 7: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 8: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 9: Volno (cvičení), Učitel: None, Učebna: None
+  Hodina 10: Volno (cvičení), Učitel: None, Učebna: None
+
+-----------------------------------

@@ -1,0 +1,14 @@
+C:\Users\Filip\source\repos\alpha\alpha\bin\Debug\net8.0\alpha.exe
+C:\Users\Filip\source\repos\alpha\alpha\bin\Debug\net8.0\alpha.deps.json
+C:\Users\Filip\source\repos\alpha\alpha\bin\Debug\net8.0\alpha.runtimeconfig.json
+C:\Users\Filip\source\repos\alpha\alpha\bin\Debug\net8.0\alpha.dll
+C:\Users\Filip\source\repos\alpha\alpha\bin\Debug\net8.0\alpha.pdb
+C:\Users\Filip\source\repos\alpha\alpha\obj\Debug\net8.0\alpha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\source\repos\alpha\alpha\obj\Debug\net8.0\alpha.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\alpha\alpha\obj\Debug\net8.0\alpha.AssemblyInfo.cs
+C:\Users\Filip\source\repos\alpha\alpha\obj\Debug\net8.0\alpha.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\alpha\alpha\obj\Debug\net8.0\alpha.dll
+C:\Users\Filip\source\repos\alpha\alpha\obj\Debug\net8.0\refint\alpha.dll
+C:\Users\Filip\source\repos\alpha\alpha\obj\Debug\net8.0\alpha.pdb
+C:\Users\Filip\source\repos\alpha\alpha\obj\Debug\net8.0\alpha.genruntimeconfig.cache
+C:\Users\Filip\source\repos\alpha\alpha\obj\Debug\net8.0\ref\alpha.dll
