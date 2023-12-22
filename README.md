@@ -8,7 +8,7 @@ Pro spuštění tohoto projektu budete potřebovat:
 Visual Studio 2019 nebo novější
 
 Instalace:
-git clone url vašeho repozitáře
+git clone https://github.com/EdgardKovbljuk/alfa.git
 
 Architektura
 
